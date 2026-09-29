@@ -8,7 +8,7 @@ export default function Gallery() {
   const galleryItems = [
     {
       id: 1,
-      name: "Abbas Sir",
+      name: "Prabhat Sir",
       role: "Director & Management",
       img: abhasSirImg
     },
